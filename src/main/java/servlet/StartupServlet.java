@@ -1,6 +1,4 @@
-package bsu.rfe.java.group8.lab9.Yury.varA4.servlet;
-
-import bsu.rfe.java.group8.lab9.Yury.varA4.entity.*;
+import entity.*;
 
 import javax.servlet.ServletConfig;
 import javax.servlet.ServletException;

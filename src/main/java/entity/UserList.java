@@ -1,4 +1,4 @@
-package bsu.rfe.java.group8.lab9.Yury.varA4.entity;
+
 
 public class UserList extends ListOfIdentifiables<User> {
 
